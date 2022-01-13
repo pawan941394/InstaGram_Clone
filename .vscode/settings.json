@@ -1,0 +1,5 @@
+{
+    "cmake.configureOnOpen": false,
+    "git.ignoreLimitWarning": true,
+    "python.formatting.provider": "autopep8"
+}
